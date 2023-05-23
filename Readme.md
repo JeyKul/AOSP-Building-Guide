@@ -10,6 +10,9 @@ If you ask me for an minimal requirement, id say
 | ------------- |:-------------:| -----:|
 | 4 Cores, 4 Threads      | 16GB RAM | Full 256GB |
 
+If you use 256GB storage you HAVE TO delete .repo folder to have enough storage for building. 
+get more storage to now have to do that!
+***
 Recommended would be any specs better than these or atleast 512GB or more storage.
 With that kind of specs, a build would roughly take 1 Hour and 30 Minutes.
 
