@@ -25,6 +25,7 @@ lunch
 This will list all possible devices you can build for (many of these won't work, lol)
 
 Select the number for your device and then this should be a result you want to get:
+
 (you can also do ````lunch rom_devicecodename-userdebug.mk````)
 
 ````

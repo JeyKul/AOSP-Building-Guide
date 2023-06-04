@@ -1,5 +1,5 @@
 # End
-If you have any questions regarding building Android you can try asking [me for help](t.me/jeykul) on telegram.
+If you have any questions regarding building Android you can try asking [me for help](t.me/jeykul) on Telegram.
 
 thanks for reading!
 
