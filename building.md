@@ -57,3 +57,12 @@ make bacon
 #### this command can differ for the rom, ask the specific community if you need help
 
 # [Next ->](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/errors.md)
+
+#### [• Beginning](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/Readme.md)
+#### [• What do we want to build?](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/what.md)
+#### [• Preparing](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/preparing.md)
+#### [• Syncing](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/syncing.md)
+#### [• Editing](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/editing.md)
+#### [> Building](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/building.md)
+#### [• Errors](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/errors.md)
+#### [• End](https://github.com/JeyKul/AOSP-Building-Guide/blob/main/end.md)
