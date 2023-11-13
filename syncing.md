@@ -2,11 +2,11 @@
 
 ````
 repo init -u https://github.com/crdroidandroid/android.git -b 13.0 --git-lfs
-`````
+````
 
-##### This is for syncing crDroid. Your rom may be different and it probaly has another name for that repo as well.
+##### This is for syncing crDroid. Your ROM may be different and it probably has another name for that repo as well.
 
-After that is done, we are going to check if your device has an Manifest, which can be useful to make the syncing easier!
+After that is done, we are going to check if your device has a Manifest. A Manifest is a file that specifies the repositories that 'repo' should check out. This can be useful to make the syncing easier!
 
 You should just ask the Maintainer for your device, if they have an Manifest. If they dont have one, you can just skip to ```repo sync```
 
@@ -23,7 +23,7 @@ To sync the stuff to your local drive, we are going to do
 ````
 repo sync
 ````
-This will sync all stuff you need. (on an good rom)
+This command will sync all the repositories specified in the Manifest to your local drive. This includes all the code and resources you need to build the ROM. (on a good ROM)
 
 # Repo sync is done!
 
