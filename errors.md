@@ -4,14 +4,16 @@ On any error, you should try and read the error carefully. If you do that, you c
 
 Usually the build should continue now. 
 
-### If its a lineage tree, you may get some errors about livedisplay, touch and hidl. 
+## Common Errors
 
-Edit the common.mk file inside device/manifacturer/something-common and remove the lines talking about touch, hidl and livedisplay and restart the build.
+### Lineage Tree Errors
+
+If you're working with a lineage tree, you might encounter errors related to livedisplay, touch, and hidl. To resolve these, edit the `common.mk` file located in `device/manufacturer/something-common`. Remove the lines referring to touch, hidl, and livedisplay, then restart the build.
 
 ### Error 137
-This usually means that your machine ran out of ram. Restart the build with for example
+This usually means that your machine ran out of ram. The `-j` option in the `make` command specifies the number of jobs (commands) that `make` can run simultaneously. Restart the build with for example
 
-````make bacon -j[AmountOfRamInGB] ```` <- without brackets!!!
+````make bacon -j[NumberOfJobs] ```` <- without brackets!!!
 
 
 Then your build should go as planned.
