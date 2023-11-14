@@ -10,7 +10,7 @@ If you ask me for an minimal requirement, id say
 | ------------- |:-------------:| -----:|
 | 4 Cores, 4 Threads      | 16GB RAM | Full 256GB |
 
-If you use 256GB storage you HAVE TO delete .repo folder to have enough storage for building. 
+If you use 256GB storage you HAVE TO delete .repo folder to have enough storage for building. The .repo folder contains Git repositories for the Android source. However, it can take up a significant amount of storage space. Deleting it can free up space, but be aware that you'll lose your local changes to the Android source code.
 
 Get more storage to not have to do that!
 ***
